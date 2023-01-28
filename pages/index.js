@@ -1,3 +1,3 @@
 export default () => (
-    <p1>Hello we </p1>
+    <p1>Hello we  are</p1>
 )
