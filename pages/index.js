@@ -8,7 +8,9 @@ export default () => {
                 <image src='/logo.png' className={styles.logo} alt='logo' />
             </header>
             <div className={styles.grid}>
-                
+                <Card />
+                <Card />
+                <Card />
             </div>
         </div>
     )
