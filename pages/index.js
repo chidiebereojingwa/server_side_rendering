@@ -5,6 +5,10 @@ import data from './API/data.json'
 
 export default class Index extends React.Component {
 
+    static async getInitialProps() { 
+        return { cards: data}
+    }
+
     render() { 
         return (
         <div className={styles.card}>
