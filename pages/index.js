@@ -16,9 +16,11 @@ export default class Index extends React.Component {
                 <img src='/logo.png' className={styles.logo} alt='logo' />
             </header>
             <div className={styles.grid}>
-                <Card />
-                <Card />
-                <Card />
+                    {
+                        this.props.cards.map((card) => (
+                            <Card key={card.id}/>
+                        ))
+                }
             </div>
         </div>
     )
