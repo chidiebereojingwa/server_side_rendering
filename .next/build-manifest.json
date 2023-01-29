@@ -5,26 +5,34 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/VuqSS8aHFYJhB-CwRywYd/_buildManifest.js",
-    "static/VuqSS8aHFYJhB-CwRywYd/_ssgManifest.js"
+    "static/IsXCWPpYzbsNhWqqQPGXC/_buildManifest.js",
+    "static/IsXCWPpYzbsNhWqqQPGXC/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
     "/": [
-      "static/chunks/webpack-8a59928dc61557b6.js",
-      "static/chunks/framework-eaa0f3520361d921.js",
+      "static/chunks/webpack-8fa1640cc84ba8fe.js",
+      "static/chunks/framework-cda2f1305c3d9424.js",
       "static/chunks/main-abd9b5772566dc74.js",
-      "static/chunks/pages/index-01cadfdfa107f88a.js"
+      "static/css/2e75514ffb38473a.css",
+      "static/chunks/pages/index-cc8aa43d485b410f.js"
+    ],
+    "/Card": [
+      "static/chunks/webpack-8fa1640cc84ba8fe.js",
+      "static/chunks/framework-cda2f1305c3d9424.js",
+      "static/chunks/main-abd9b5772566dc74.js",
+      "static/css/8a43ca92a23f604c.css",
+      "static/chunks/pages/Card-cb0d4f88d9841f15.js"
     ],
     "/_app": [
-      "static/chunks/webpack-8a59928dc61557b6.js",
-      "static/chunks/framework-eaa0f3520361d921.js",
+      "static/chunks/webpack-8fa1640cc84ba8fe.js",
+      "static/chunks/framework-cda2f1305c3d9424.js",
       "static/chunks/main-abd9b5772566dc74.js",
       "static/chunks/pages/_app-df511a3677d160f6.js"
     ],
     "/_error": [
-      "static/chunks/webpack-8a59928dc61557b6.js",
-      "static/chunks/framework-eaa0f3520361d921.js",
+      "static/chunks/webpack-8fa1640cc84ba8fe.js",
+      "static/chunks/framework-cda2f1305c3d9424.js",
       "static/chunks/main-abd9b5772566dc74.js",
       "static/chunks/pages/_error-dfcfa5bb62767c20.js"
     ]
